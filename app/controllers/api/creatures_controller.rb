@@ -39,7 +39,7 @@ class Api::CreaturesController < ApplicationController
         render json: {
       msg: "Successfully Deleted"
     }
-  end
+
     end
 
     private
